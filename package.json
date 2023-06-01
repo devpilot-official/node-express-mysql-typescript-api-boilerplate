@@ -57,6 +57,6 @@
     "mysql": "^2.16.0",
     "reflect-metadata": "^0.1.13",
     "typeorm": "^0.2.15",
-    "winston": "^3.2.1"
+    "winston": "^3.8.2"
   }
 }
