@@ -44,7 +44,7 @@
     "typescript": "3.9.9"
   },
   "dependencies": {
-    "bcrypt": "^5.0.0",
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.18.3",
     "celebrate": "13.0.3",
     "dotenv": "10.0.0",
